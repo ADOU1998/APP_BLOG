@@ -4,6 +4,8 @@ Rails.application.routes.draw do
   # Page d'accueil
   root to: 'main#index'
 
-
   get 'main/about', to: 'main#about'
+
+  # Articles
+  get 'article/index', to: 'article#index'
 end
