@@ -1,4 +1,4 @@
-1) Création d'une application web Ruby on rails et est appellé APP BLOG
+# Création d'une application web Ruby on rails et est appellé APP BLOG
 
 2) Pour l'excétion du serveur de l'application
 
